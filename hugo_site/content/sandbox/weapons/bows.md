@@ -61,11 +61,11 @@ Here are some results from the bows I had on hand, after jumping in to the EDZ a
 |Wolftone Draw|Precision|684ms (Base)|41||
 |||Archer's Tempo|30|`+25% F`|
 |||Adagio|49|`-25% S`|
-|||Adagio + Archer's Tempo|37|`-10% S`|
+|||Adagio + Archer's Tempo|37|`+10% F`|
 |Wolftone Draw|Precision|612ms (Elastic String)|36||
 |||Archer's Tempo|27|`+25% F`|
 |||Adagio|44|`-25% S`|
-|||Adagio + Archer's Tempo|34|`-10% S`|
+|||Adagio + Archer's Tempo|34|`+6% F`|
 
 ### Impulse Amplifier
 
